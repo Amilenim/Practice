@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Shop.Logic.ShopEqual">
+    <Position X="7" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Equal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop.Logic.ShopLogic">
+    <Position X="5.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AJIgAIQAACIEgAAEAAgAAAAIEgAICAAIAgFAEAAAAAA=</HashCode>
+      <FileName>Classes\Logic.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop.Modules.ShopBalance">
+    <Position X="3.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Modules\Balance.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop.Modules.Components">
+    <Position X="3.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAggAAAAAAAA=</HashCode>
+      <FileName>Modules\Components.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop.Modules.Open">
+    <Position X="9" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAEAAAAAA=</HashCode>
+      <FileName>Modules\Open.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop.Modules.Save">
+    <Position X="7.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>Modules\Save.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop.Menu">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Menu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Object" Collapsed="true">
+    <Position X="5.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Enum Name="Shop.Enums.Fruits">
+    <Position X="9" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAAAABAAAAAAAAAAAAAAAAAAEQAAAAAAA=</HashCode>
+      <FileName>Enums\Fruits.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Shop.Enums.Vegetables">
+    <Position X="7.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAEAAgABAAAAAA=</HashCode>
+      <FileName>Enums\Vegetables.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
