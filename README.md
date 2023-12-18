@@ -1,7 +1,7 @@
 # Grocery store
 ##Best grocery store to buy goods
 
-[![N|Solid](https://cdn4.iconfinder.com/data/icons/fruits-79/48/24-blueberry-512.png)](https://nodesource.com/products/nsolid)](https://nodesource.com/products/nsolid)
+[![N|Solid](https://cdn4.iconfinder.com/data/icons/fruits-79/48/24-blueberry-512.png)](https://nodesource.com/products/nsolid)
 
 ## Description
 “Grocery Store” is a console application for online shopping. Clear interface, easy to use.
